@@ -1,0 +1,116 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_96_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_94_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="2.6"/>
+  </filter>
+  <filter id="svg_101_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_141_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_139_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_143_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_150_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_153_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_161_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_146_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_158_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_151_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_148_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+  <filter id="svg_160_blur">
+   <feGaussianBlur stdDeviation="2.5"/>
+  </filter>
+ </defs>
+ <g display="inline">
+  <title>Layer 1</title>
+  <polygon id="svg_6" fill="#ffdab9" points="NaN,NaN " stroke="#ffdab9" stroke-width="5"/>
+  <rect fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1.16703" y="1.627816" width="638.156838" height="477.112559" id="svg_70" stroke="#ffdab9"/>
+ </g>
+ <g display="inline">
+  <title>triangles</title>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m91.912811,105.33773l22.57637,-17.026352l22.576218,17.026352l-45.152588,0z" id="svg_164" stroke="#8ecece"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m591.51593,105.337723l22.576355,-17.026337l22.576233,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_181"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m492.180206,105.337723l22.576385,-17.026337l22.576233,17.026337l-45.152618,0z" stroke="#8ecece" id="svg_182"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m391.339386,105.337723l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_183"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m291.251099,105.337723l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_184"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m191.162827,105.337723l22.576385,-17.026337l22.576233,17.026337l-45.152618,0z" stroke="#8ecece" id="svg_185"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m91.912796,205.049728l22.576378,-17.026337l22.576241,17.026337l-45.152618,0z" stroke="#8ecece" id="svg_188"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m591.51593,205.049728l22.576355,-17.026337l22.576233,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_189"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m492.180206,205.049728l22.576385,-17.026337l22.576233,17.026337l-45.152618,0z" stroke="#8ecece" id="svg_190"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m391.339386,205.049728l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_191"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m291.251099,205.049728l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_192"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m191.162842,205.049728l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_193"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m91.912796,305.890564l22.576378,-17.026306l22.576241,17.026306l-45.152618,0z" stroke="#8ecece" id="svg_194"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m591.51593,305.890564l22.576355,-17.026306l22.576233,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_195"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m492.180206,305.890564l22.576385,-17.026306l22.576233,17.026306l-45.152618,0z" stroke="#8ecece" id="svg_196"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m391.339386,305.890564l22.576385,-17.026306l22.576202,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_197"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m291.251099,305.890564l22.576385,-17.026306l22.576202,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_198"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m191.162842,305.890564l22.576385,-17.026306l22.576202,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_199"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m91.912796,405.978882l22.576378,-17.026337l22.576241,17.026337l-45.152618,0z" stroke="#8ecece" id="svg_200"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m591.51593,405.978882l22.576355,-17.026367l22.576233,17.026367l-45.152588,0z" stroke="#8ecece" id="svg_201"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m492.180206,405.978851l22.576385,-17.026306l22.576233,17.026306l-45.152618,0z" stroke="#8ecece" id="svg_202"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m391.339386,405.978882l22.576385,-17.026337l22.576202,17.026337l-45.152588,0z" stroke="#8ecece" id="svg_203"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m291.251099,405.978851l22.576385,-17.026306l22.576202,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_204"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m191.162842,405.978851l22.576385,-17.026306l22.576202,17.026306l-45.152588,0z" stroke="#8ecece" id="svg_205"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m2.295857,105.337723l22.576385,-17.026337l22.576202,17.026337l-45.152587,0z" stroke="#8ecece" id="svg_210"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m2.295857,205.049728l22.576385,-17.026337l22.576202,17.026337l-45.152587,0z" stroke="#8ecece" id="svg_211"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m2.295857,305.890564l22.576385,-17.026306l22.576202,17.026306l-45.152587,0z" stroke="#8ecece" id="svg_212"/>
+  <path fill="#ffdab9" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m2.295857,405.978851l22.576385,-17.026306l22.576202,17.026306l-45.152587,0z" stroke="#8ecece" id="svg_213"/>
+ </g>
+ <g display="inline">
+  <title>circles</title>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="169.73677" cy="46.027864" r="12.25052" id="svg_86"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="269.825056" cy="46.027861" r="12.25052" id="svg_94" filter="url(#svg_94_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="369.913334" cy="46.027864" r="12.25052" id="svg_95"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="70.401037" cy="46.027863" r="12.25052" id="svg_96" filter="url(#svg_96_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="569.337335" cy="46.027862" r="12.25052" id="svg_100"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="470.001591" cy="46.027863" r="12.25052" id="svg_101" filter="url(#svg_101_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="169.736759" cy="146.8687" r="12.25052" id="svg_139" filter="url(#svg_139_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="269.072516" cy="146.868701" r="12.25052" id="svg_140"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="369.913337" cy="146.868704" r="12.25052" id="svg_141" filter="url(#svg_141_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="69.64849" cy="146.868703" r="12.25052" id="svg_142"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="569.337339" cy="146.868698" r="12.25052" id="svg_143" filter="url(#svg_143_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="470.001595" cy="146.868703" r="12.25052" id="svg_144"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="169.736759" cy="245.451891" r="12.25052" id="svg_145"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="269.072516" cy="245.451892" r="12.25052" id="svg_146" filter="url(#svg_146_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="369.913337" cy="245.451895" r="12.25052" id="svg_147"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="69.64849" cy="245.451894" r="12.25052" id="svg_148" filter="url(#svg_148_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="569.337339" cy="245.451889" r="12.25052" id="svg_149"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="470.001595" cy="245.451894" r="12.25052" id="svg_150" filter="url(#svg_150_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="169.736769" cy="346.292719" r="12.25052" id="svg_151" filter="url(#svg_151_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="269.072496" cy="346.292704" r="12.25052" id="svg_152"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="369.913317" cy="346.292722" r="12.25052" id="svg_153" filter="url(#svg_153_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="69.648493" cy="346.292706" r="12.25052" id="svg_154"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="569.337319" cy="346.292717" r="12.25052" id="svg_155"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="470.001606" cy="346.292722" r="12.25052" id="svg_156"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="169.73676" cy="439.608101" r="12.25052" id="svg_157"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="269.072517" cy="439.608117" r="12.25052" id="svg_158" filter="url(#svg_158_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="369.913339" cy="439.608104" r="12.25052" id="svg_159"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="69.648491" cy="439.608119" r="12.25052" id="svg_160" filter="url(#svg_160_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="569.33734" cy="439.608099" r="12.25052" id="svg_161" filter="url(#svg_161_blur)"/>
+  <circle fill="#8ecece" stroke="#8ecece" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="470.001596" cy="439.608104" r="12.25052" id="svg_162"/>
+ </g>
+</svg>
